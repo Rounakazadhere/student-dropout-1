@@ -44,7 +44,8 @@ backend_database.sql    # Database schema
 README.md               # This file
 index.php               # Main landing page
 notifications.php       # Notifications page
-reports.php             # Reports page
+reports.php             # Reports page<img width="1470" alt="Screenshot 2025-04-19 at 2 15 42 AM" src="https://github.com/user-attachments/assets/176b4488-1194-4274-ac64-a5e8189f8546" />
+
 feedback.php            # Feedback page
 ```
 
@@ -57,5 +58,17 @@ feedback.php            # Feedback page
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
-## License
-This project is licensed under the MIT License.
+
+<img width="1470" alt="Screenshot 2025-04-19 at 2 15 42 AM" src="https://github.com/user-attachments/assets/64cbcaa9-6c64-4905-a8fa-a93a8fb637a4" />
+
+<img width="1470" alt="Screenshot 2025-04-19 at 2 15 53 AM" src="https://github.com/user-attachments/assets/83f448ff-6e8f-48b2-882e-024f277f6ea9" />
+
+<img width="1470" alt="Screenshot 2025-04-19 at 2 16 35 AM" src="https://github.com/user-attachments/assets/a4a5c049-1ace-409f-bba2-41c4141f9a97" />
+
+<img width="1470" alt="Screenshot 2025-04-19 at 2 16 09 AM" src="https://github.com/user-attachments/assets/3a9d2458-3567-4ba2-a53e-a93f67a1b2c9" />
+
+
+<img width="1470" alt="Screenshot 2025-04-19 at 2 16 03 AM" src="https://github.com/user-attachments/assets/b6d3d977-bcfe-48f6-bdf3-6461afa14b84" />
+
+
+<img width="1470" alt="Screenshot 2025-04-19 at 2 15 58 AM" src="https://github.com/user-attachments/assets/c2fe768d-e302-4d5c-aa0d-3a0f25bd35c5" />
